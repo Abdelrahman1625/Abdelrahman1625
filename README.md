@@ -23,16 +23,20 @@
 
 - 📝 I regularly learn and experiment with **React**, **JavaScript**, **.NET development**, and more!
 <br>
-- 📧 Reach me at **abdelrahman.adel063@gmail.com**
-<br>
 
 <h3 align="center">👔 Connect with me:</h3>
 <p align="center">
+  <!-- LinkedIn Icon -->
   <a href="https://www.linkedin.com/in/abdelrahman-adel-0a1o234567/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Abdelrahman Adel" height="30" width="40" />
   </a>
+  <!-- Facebook Icon -->
+  <a href="https://www.facebook.com/profile.php?id=100009768518159" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook - Abdelrahman Adel" height="30" width="30" />
+  </a>
 </p>
 
+- 📧 Reach me at **abdelrahman.adel063@gmail.com**
 <br>
 
 <h3 align="center">👨‍💻 Languages and Tools:</h3>
