@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Adel</h1>
-<h3 align="center">🟦 Software Developer | Fullstack Developer | .NET Developer | React Developer </h3>
+<h3 align="center">Passionate Backend Developer | .NET Developer | Software Developer</h3>
 
-<img src="https://github.com/Abdelrahman1625/Abdelrahman1625/blob/main/me.gif" alt="Your GIF description">
+<div align="center">
+  <img src="https://i.imgur.com/KXx0cCx.gif" align="center" width="373.5px" height="208.5px">
+</div>
 
 <p align="center">
   <!-- Shields for Followers and Stars -->
