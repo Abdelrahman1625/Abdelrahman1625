@@ -36,12 +36,9 @@
   </a>
   <!-- Email Icon -->
   <a href="mailto:abdelrahman.adel063@gmail.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Envelope_icon.svg" alt="Email - Abdelrahman Adel" height="30" width="30" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Email_icon.svg" alt="Email - Abdelrahman Adel" height="30" width="30" />
   </a>
 </p>
-
-- 📧 Reach me at **abdelrahman.adel063@gmail.com**
-<br>
 
 <h3 align="center">👨‍💻 Languages and Tools:</h3>
 <p align="center">
