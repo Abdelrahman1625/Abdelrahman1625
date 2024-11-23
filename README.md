@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Adel</h1>
 <h3 align="center">Passionate Backend Developer | .NET Developer | Software Developer</h3>
 
-<div align="center">
-  <img src="https://github.com/Abdelrahman1625/Abdelrahman1625/blob/main/me.gif" alt="Your GIF description">
-</div>
-
 ---
 
 🌟 **About Me**  
