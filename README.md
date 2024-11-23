@@ -24,6 +24,30 @@
   </p>
 </p>
 
+---
+
+🌱 **Currently Learning**  
+- Advanced React and .NET development.  
+- Backend technologies like Supabase, Node.js, and APIs.
+
+💬 **Ask Me About**  
+- Building web applications with React and .NET.  
+- Working with APIs and integrating databases like MySQL, MongoDB, and Supabase.
+
+📫 **How to Reach Me**  
+- Email: [abdelrahman.adel063@gmail.com](mailto:abdelrahman.adel063@gmail.com)  
+- LinkedIn: [Abdelrahman Adel](https://www.linkedin.com/in/abdelrahman-adel-0a1o234567/)  
+
+📄 **Know About My Experience**  
+- [Resume](https://drive.google.com/file/d/1bv0-Xojc0IOsvj-fA4MmBomu6kZ07hyB/view?usp=sharing)
+
+---
+
+⚡ **Fun Fact**  
+I enjoy tackling complex challenges in both frontend and backend development and am always eager to build scalable and efficient solutions! 🚀
+
+---
+
 <h3 align="center">📫 Connect with me:</h3>
 <div align="center">
   <!-- LinkedIn Icon -->
