@@ -24,7 +24,7 @@
 - 📝 I regularly learn and experiment with **React**, **JavaScript**, **.NET development**, and more!
 <br>
 
-<h3 align="center">👔 Connect with me:</h3>
+<h3 align="center">📫 Connect with me:</h3>
 <p align="center">
   <!-- LinkedIn Icon -->
   <a href="https://www.linkedin.com/in/abdelrahman-adel-0a1o234567/" target="blank">
@@ -36,9 +36,10 @@
   </a>
   <!-- Email Icon -->
   <a href="mailto:abdelrahman.adel063@gmail.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Email_icon.svg" alt="Email - Abdelrahman Adel" height="30" width="30" />
+    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/mail.png" alt="Email - Abdelrahman Adel" height="30" width="30" />
   </a>
 </p>
+
 
 <h3 align="center">👨‍💻 Languages and Tools:</h3>
 <p align="center">
