@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Adel</h1>
-<h3 align="center">🟦 Software Developer | .NET Enthusiast | React Developer | Backend Specialist | Passionate About Egyptian Exports Platform Development</h3>
+<h3 align="center">🟦 Software Developer | Fullstack Developer | .NET Developer | React Developer </h3>
 
 <img src="https://github.com/Abdelrahman1625/Abdelrahman1625/blob/main/me.gif" alt="Your GIF description">
 
