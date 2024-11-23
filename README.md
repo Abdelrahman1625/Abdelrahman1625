@@ -5,6 +5,8 @@
   <img src="https://i.imgur.com/KXx0cCx.gif" align="center" width="373.5px" height="208.5px">
 </div>
 
+---
+
 <div align="center">
   <!-- Shields for Followers and Stars -->
   <a href="https://github.com/Abdelrahman1625">
@@ -17,13 +19,9 @@
 
 <p align="center">
   <!-- Profile Visitors Count -->
-  <p>Profile Visitors</p>
+  <p align="center">Profile Visitors</p>
   <img align="center" src="https://profile-counter.glitch.me/Abdelrahman1625/count.svg" alt="Visitor Counter" />
 </p>
-
-<br>
-- 📝 I regularly learn and experiment with **NET development**, **JavaScript**, **.React**, and more!
-<br>
 
 <h3 align="center">📫 Connect with me:</h3>
 <div align="center">
