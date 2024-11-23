@@ -21,13 +21,9 @@
   <img align="center" src="https://profile-counter.glitch.me/Abdelrahman1625/count.svg" alt="Visitor Counter" />
 </p>
 
-<br>
-
-- 📝 I regularly learn and experiment with **NET development**, **JavaScript**, **.React**, and more!
-<br>
 
 <h3 align="center">📫 Connect with me:</h3>
-<p align="center">
+<div align="center">
   <!-- LinkedIn Icon -->
   <a href="https://www.linkedin.com/in/abdelrahman-adel-0a1o234567/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Abdelrahman Adel" height="30" width="40" />
@@ -40,7 +36,7 @@
   <a href="mailto:abdelrahman.adel063@gmail.com" target="blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Email - Abdelrahman Adel" height="30" width="30" />
 </a>
-</p>
+</div>
 
 
 <h3 align="center">👨‍💻 Languages and Tools:</h3>
