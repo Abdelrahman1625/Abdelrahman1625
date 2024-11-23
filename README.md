@@ -19,8 +19,9 @@
 
 <p align="center">
   <!-- Profile Visitors Count -->
-  <p align="center">Profile Visitors</p>
+  <p align="center">Profile Visitors
   <img align="center" src="https://profile-counter.glitch.me/Abdelrahman1625/count.svg" alt="Visitor Counter" />
+  </p>
 </p>
 
 <h3 align="center">📫 Connect with me:</h3>
