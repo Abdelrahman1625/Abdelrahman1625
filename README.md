@@ -5,7 +5,7 @@
   <img src="https://i.imgur.com/KXx0cCx.gif" align="center" width="373.5px" height="208.5px">
 </div>
 
-<p align="center">
+<div align="center">
   <!-- Shields for Followers and Stars -->
   <a href="https://github.com/Abdelrahman1625">
     <img src="https://img.shields.io/github/followers/Abdelrahman1625?label=Follow%20Me&style=social" alt="Follow Me" />
@@ -13,7 +13,7 @@
   <a href="https://github.com/Abdelrahman1625">
     <img src="https://img.shields.io/github/stars/Abdelrahman1625?style=social" alt="GitHub Stars" />
   </a>
-</p>
+</div>
 
 <p align="center">
   <!-- Profile Visitors Count -->
