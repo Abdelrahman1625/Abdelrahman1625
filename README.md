@@ -7,6 +7,11 @@
 
 ---
 
+🌟 **About Me**  
+I specialize in **React development**, **.NET development**, and **backend solutions**. Passionate about creating efficient and scalable applications, I strive to deliver high-quality user experiences. I am always eager to explore new technologies and collaborate on exciting projects that push the boundaries of innovation.
+
+---
+
 <div align="center">
   <!-- Shields for Followers and Stars -->
   <a href="https://github.com/Abdelrahman1625">
