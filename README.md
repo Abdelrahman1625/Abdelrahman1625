@@ -21,6 +21,9 @@
   <img align="center" src="https://profile-counter.glitch.me/Abdelrahman1625/count.svg" alt="Visitor Counter" />
 </p>
 
+<br>
+- 📝 I regularly learn and experiment with **NET development**, **JavaScript**, **.React**, and more!
+<br>
 
 <h3 align="center">📫 Connect with me:</h3>
 <div align="center">
