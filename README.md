@@ -21,7 +21,7 @@
 
 <br>
 
-- 📝 I regularly learn and experiment with **React**, **JavaScript**, **.NET development**, and more!
+- 📝 I regularly learn and experiment with **NET development**, **JavaScript**, **.React**, and more!
 <br>
 
 <h3 align="center">📫 Connect with me:</h3>
@@ -34,11 +34,12 @@
   <a href="https://www.facebook.com/profile.php?id=100009768518159" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook - Abdelrahman Adel" height="30" width="30" />
   </a>
-  <!-- Email Icon (Fixed) -->
-  <a href="mailto:abdelrahman.adel063@gmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email - Abdelrahman Adel" height="30" width="30" />
+  <!-- Email Icon (Text-based) -->
+  <a href="mailto:abdelrahman.adel063@gmail.com" target="blank" style="font-size: 30px; text-decoration: none;">
+    ✉
   </a>
 </p>
+
 
 
 
