@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Adel</h1>
-<h3 align="center">Passionate Backend Developer | .NET Developer | Software Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFFF00&center=true&vCenter=true&width=435&lines=Backend+Developer;.NET+Developer;Software Engineer" alt="Typing SVG">
+</p>
 
 ---
 
@@ -27,19 +29,23 @@ I specialize in **React development**, **.NET development**, and **backend solut
 
 ---
 
-🌱 **Currently Learning**  
-- Advanced React and .NET development.  
+🌱 **Currently Learning**
+
+- Advanced React and .NET development.
 - Backend technologies like Supabase, Node.js, and APIs.
 
-💬 **Ask Me About**  
-- Building web applications with React and .NET.  
+💬 **Ask Me About**
+
+- Building web applications with React and .NET.
 - Working with APIs and integrating databases like MySQL, MongoDB, and Supabase.
 
-📫 **How to Reach Me**  
-- Email: [abdelrahman.adel063@gmail.com](mailto:abdelrahman.adel063@gmail.com)  
-- LinkedIn: [Abdelrahman Adel](https://www.linkedin.com/in/abdelrahman-adel-0a1o234567/)  
+📫 **How to Reach Me**
 
-📄 **Know About My Experience**  
+- Email: [abdelrahman.adel063@gmail.com](mailto:abdelrahman.adel063@gmail.com)
+- LinkedIn: [Abdelrahman Adel](https://www.linkedin.com/in/abdelrahman-adel-0a1o234567/)
+
+📄 **Know About My Experience**
+
 - [Resume](https://drive.google.com/file/d/1bv0-Xojc0IOsvj-fA4MmBomu6kZ07hyB/view?usp=sharing)
 
 ---
