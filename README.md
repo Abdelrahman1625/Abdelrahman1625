@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Abdelrahman Adel</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+  Hi, I'm Abdelrahman Adel!
+</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFFF00&center=true&vCenter=true&width=435&lines=Backend+Developer;.NET+Developer;Software Engineer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFFF00&center=true&vCenter=true&width=435&lines=Backend+Developer;.NET+Developer;React+Developer;Software Engineer" alt="Typing SVG">
 </p>
 
 ---
