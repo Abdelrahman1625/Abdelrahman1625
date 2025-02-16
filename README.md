@@ -49,7 +49,7 @@ I specialize in **React development**, **.NET development**, and **backend solut
 
 📄 **Know About My Experience**
 
-- [Resume](https://drive.google.com/file/d/1bv0-Xojc0IOsvj-fA4MmBomu6kZ07hyB/view?usp=sharing)
+- [Resume](https://docs.google.com/document/d/1AttTWF4Pne6um8vWBluCaOHtrA5l-NzyIQ-6C8OH8wI/edit?usp=sharing)
 
 ---
 
