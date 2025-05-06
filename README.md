@@ -9,6 +9,7 @@
 ---
 
 🌟 **About Me**
+
 Backend developer specializing in .NET, Node.js, Express.js and Nest.js, building scalable and high-performance systems. Experienced in projects like Buy From Egypt (Importer and Exporter), FlickPick (movie), Hawa (driver app), Blood Bank, and Attendance Management System. Skilled in DBMS like PostgreSQL and MongoDB, focusing on API design, database optimization, and system reliability. Strong ability to develop secure and efficient backend solutions for real-world challenges.
 
 ---
