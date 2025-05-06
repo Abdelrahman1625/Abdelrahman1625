@@ -3,7 +3,7 @@
   Hi, I'm Abdelrahman Adel!
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFFF00&center=true&vCenter=true&width=435&lines=Backend+Developer;.NET+Developer;React+Developer;Software Engineer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFFF00&center=true&vCenter=true&width=435&lines=Backend+Developer;.NET+Developer;React+Developer;Software%20Engineer" alt="Typing SVG">
 </p>
 
 ---
