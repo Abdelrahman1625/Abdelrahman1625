@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
   Hi, I'm Abdelrahman Adel!
 </h1>
 <p align="center">
@@ -8,10 +8,9 @@
 
 ---
 
-🌟 **About Me**
-Backend developer specializing in .NET, Node.js, Express.js and Nest.js, building scalable and high-performance systems. Experienced in projects like Buy From Egypt (Importer and Exporter), FlickPick (movie), Hawa (driver app), Blood Bank, and Attendance Management System. Skilled in DBMS like PostgreSQL and MongoDB, focusing on API design, database optimization, and system reliability. Strong ability to develop secure and efficient backend solutions for real-world challenges.
+## 🌟 **About Me**
 
----
+## Backend developer specializing in .NET, Node.js, Express.js and Nest.js, building scalable and high-performance systems. Experienced in projects like Buy From Egypt (Importer and Exporter), FlickPick (movie), Hawa (driver app), Blood Bank, and Attendance Management System. Skilled in DBMS like PostgreSQL and MongoDB, focusing on API design, database optimization, and system reliability. Strong ability to develop secure and efficient backend solutions for real-world challenges.
 
 <div align="center">
   <!-- Shields for Followers and Stars -->
@@ -81,10 +80,10 @@ I enjoy tackling complex challenges in both frontend and backend development and
   <!-- Add tools and technologies here as icons -->
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
-  </a> 
+  </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a> 
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
