@@ -9,8 +9,7 @@
 ---
 
 🌟 **About Me**  
-I specialize in **React development**, **.NET development**, and **backend solutions**. Passionate about creating efficient and scalable applications, I strive to deliver high-quality user experiences. I am always eager to explore new technologies and collaborate on exciting projects that push the boundaries of innovation.
-
+Backend developer specializing in .NET, Node.js, Express.js and Nest.js, building scalable and high-performance systems. Experienced in projects like Buy From Egypt (Importer and Exporter), FlickPick (movie), Hawa (driver app), Blood Bank, and Attendance Management System. Skilled in DBMS like PostgreSQL and MongoDB, focusing on API design, database optimization, and system reliability. Strong ability to develop secure and efficient backend solutions for real-world challenges.
 ---
 
 <div align="center">
