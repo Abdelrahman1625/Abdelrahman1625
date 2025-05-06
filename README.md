@@ -1,6 +1,6 @@
-# ![Waving hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif) Hi, I'm Abdelrahman Adel
+# 👋 Hi, I'm Abdelrahman Adel
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFFF00&center=true&vCenter=true&width=435&lines=Backend+Developer;.NET+Developer;React+Developer;Software%20Engineer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFFF00&width=435&lines=Backend+Developer;.NET+Developer;React+Developer;Software%20Engineer)
 
 ---
 
@@ -13,7 +13,7 @@ Backend developer specializing in .NET, Node.js, Express.js and Nest.js, buildin
 [![GitHub Followers](https://img.shields.io/github/followers/Abdelrahman1625?label=Follow%20Me&style=social)](https://github.com/Abdelrahman1625)
 [![GitHub Stars](https://img.shields.io/github/stars/Abdelrahman1625?style=social)](https://github.com/Abdelrahman1625)
 
-**Profile Visitors**  
+**Profile Visitors**
 ![Visitor Counter](https://profile-counter.glitch.me/Abdelrahman1625/count.svg)
 
 ---
