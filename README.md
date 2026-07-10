@@ -25,10 +25,8 @@ Backend developer specializing in .NET, Node.js, Express.js and Nest.js, buildin
 </div>
 
 <p align="center">
-  <!-- Profile Visitors Count -->
-  <p align="center">Profile Visitors
-  <img align="center" src="https://profile-counter.glitch.me/Abdelrahman1625/count.svg" alt="Visitor Counter" />
-  </p>
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Abdelrahman1625&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
