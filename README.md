@@ -15,6 +15,10 @@ Backend developer specializing in .NET, Node.js, Express.js and Nest.js, buildin
 ---
 
 <div align="center">
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Abdelrahman1625&color=blue&style=flat-square" alt="Profile Views" />
+</p>
   <!-- Shields for Followers and Stars -->
   <a href="https://github.com/Abdelrahman1625">
     <img src="https://img.shields.io/github/followers/Abdelrahman1625?label=Follow%20Me&style=social" alt="Follow Me" />
@@ -23,11 +27,6 @@ Backend developer specializing in .NET, Node.js, Express.js and Nest.js, buildin
     <img src="https://img.shields.io/github/stars/Abdelrahman1625?style=social" alt="GitHub Stars" />
   </a>
 </div>
-
-<p align="center">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=Abdelrahman1625&color=blue&style=flat-square" alt="Profile Views" />
-</p>
 
 ---
 
